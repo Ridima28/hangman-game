@@ -1,1 +1,1 @@
-hii
+this is a beginner friendly game made with python using pygame. it don't have much functionality for now, but i will surely add more to it, like having an option to replay the game without running the code again. stay tuned!
